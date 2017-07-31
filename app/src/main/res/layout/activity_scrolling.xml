@@ -16,7 +16,7 @@
 
         <android.support.design.widget.CollapsingToolbarLayout
             android:id="@+id/toolbar_layout"
-            android:background="@drawable/animalicon"
+            android:background="@drawable/pic"
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:fitsSystemWindows="true"
